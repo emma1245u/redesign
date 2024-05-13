@@ -1,0 +1,223 @@
+User
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif; 
+    line-height: 1.2; 
+    background-color: #f5f5f5; 
+}
+.container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+img {
+    max-width: 150px; 
+    height: auto; 
+    float: left;
+    margin-right: 20px; 
+}
+header {
+    font-style: normal;
+    font-style: inherit;
+    color: #000000; 
+    padding: 20px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav {
+    margin: 0 auto; 
+    text-align: center; 
+}
+nav ul {
+    list-style-type: none; 
+    display: flex; 
+    justify-content: center; 
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none; 
+    color: #060606; 
+    font-family: Fjalla One;
+    font-size: 18px;
+    font-weight: 400;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.social-icons {
+    text-align: center; 
+    margin-top: 20px; 
+}
+
+.social-icon {
+    display: inline-block; 
+    margin: 0 10px; 
+    color: #333; 
+    font-size: 24px; 
+    transition: color 0.3s ease; 
+}
+
+.social-icon:hover {
+    color: #007bff; 
+}
+
+.container h2 {
+    margin-top: 0; 
+    font-size: 13px; 
+    margin-bottom: 10px; 
+    font-family: Fjalla One; 
+    font-weight: 700; 
+    letter-spacing: 0em; 
+    line-height: 1.2em; 
+    text-transform: uppercase; 
+    color: #000000; 
+}
+
+.container h1 {
+    font-size: 32px; 
+    margin-bottom: 20px; 
+    font-style: normal;
+    font-family: Fjalla One;
+    font-weight: 300; 
+    letter-spacing: .02em; 
+    line-height: 1.3em;
+    text-transform: none; 
+    display: block; 
+    margin-block-start: 0.83em; 
+    margin-block-end: 0.83em; 
+    margin-inline-start: 0px; 
+    margin-inline-end: 0px; 
+    font-weight: bold; 
+    unicode-bidi: isolate; 
+}
+
+.photo {
+    max-width: 50%; 
+    height: auto; 
+    display: block; 
+    object-position: 50% 50%;
+}
+.container h3 {
+    margin-top: 0;
+    margin-bottom: 10px; 
+    font-size: 19px; 
+    font-family: Arial, sans-serif; 
+    font-weight: 400; 
+    color: #000000; 
+    line-height: 1.6; 
+    display: block;
+    margin-block-start: 1em; 
+    margin-block-end: 3em; 
+    margin-inline-start: 21px; 
+    margin-inline-end: 21px; 
+    unicode-bidi: normal;
+    text-align: justify; 
+    margin-top: -46px; 
+}
+
+.container p {
+    font-size: 14px; 
+    font-weight: normal; 
+    line-height: 1.5; 
+    display: flow-root;
+    margin-block-start: 1em; 
+    margin-block-end: 3em; 
+    margin-inline-start: 21px; 
+    margin-inline-end: 21px; 
+    unicode-bidi: normal;
+    text-align: justify; 
+    margin-top: -46px; 
+}
+.container p {
+    font-size: 16px;
+    font-weight: 400; 
+    color: #000000; 
+}
+.container a {
+    color: #548661; 
+    text-decoration: none; 
+    margin-bottom: 20px;
+}
+
+.container a:hover {
+    text-decoration: underline; 
+
+}
+
+.content {
+    margin-top: 20px; 
+
+}
+
+main {
+    margin-top: 20px;
+}
+
+footer {
+    font-size: 15px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    display: flex;
+    line-height: 1.6; 
+    letter-spacing: 0.05em; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #000000;
+    color: #fff;
+    margin-block-start: 1em
+    
+    
+}
+strong {
+    color: #51f562; 
+}
+.container strong {
+    color: #51f562; 
+}
+.grid-item {
+    flex: 1;
+    margin-bottom: 20px;
+    text-align: left;
+    list-style-type: none;
+    padding-left: 0;
+    font-weight: 400;
+    
+}
+
+.grid-item p {
+    margin-bottom: 10px;
+}
+
+.grid-item.right {
+    text-align: unset;
+    font-size: 14px;
+    margin: 0; 
+    margin-bottom: 10px
+    
+}
+.signup-btn {
+    font-size: 12px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none; 
+    border-radius: 5px; 
+}
+
+.signup-btn:hover {
+    background-color: #fbfbfb;
+}
