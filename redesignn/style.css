@@ -1,0 +1,237 @@
+User
+/* Mengatur ulang properti standar browser untuk memastikan konsistensi tampilan antar browser */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styling untuk body */
+body {
+    font-family: Arial, sans-serif; /* Mengatur jenis font untuk seluruh body */
+    line-height: 1.2; /* Mengatur jarak antar baris teks */
+    background-color: #f5f5f5; /* Mengatur warna latar belakang body */
+}
+
+/* Styling untuk container */
+.container {
+    max-width: 1200px; /* Mengatur lebar maksimum container */
+    margin: 0 auto; /* Mengatur margin agar container berada di tengah */
+    padding: 20px; /* Mengatur padding di dalam container */
+}
+img {
+    max-width: 150px; 
+    height: auto; 
+    float: left;
+    margin-right: 20px; /* Tambahkan margin kanan agar ada ruang antara logo dan teks */
+}
+
+
+
+/* Styling untuk header */
+header {
+    color: #000000; /* Mengatur warna teks pada header */
+    padding: 20px; /* Mengatur padding di dalam header */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+/* Styling untuk navigasi */
+nav {
+    margin: 0 auto; /* Menjadikan navbar berada di tengah dengan margin otomatis */
+    text-align: center; /* Mengatur agar item di dalam navbar menjadi center */
+}
+nav ul {
+    list-style-type: none; /* Menghilangkan bullet point pada list */
+    display: flex; /* Mengatur tata letak item menjadi flexbox */
+    justify-content: center; /* Mengatur agar item di-center secara horizontal */
+}
+
+nav ul li {
+    margin: 0 10px; /* Mengatur margin antar item di navigasi */
+}
+
+nav ul li a {
+    text-decoration: none; /* Menghilangkan underline pada link */
+    color: #060606; /* Mengatur warna teks pada link */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Styling untuk ikon sosial media */
+.social-icons {
+    text-align: center; /* Mengatur ikon agar terletak di tengah */
+    margin-top: 20px; /* Memberi sedikit ruang di atas ikon */
+}
+
+.social-icon {
+    display: inline-block; /* Membuat ikon menjadi blok inline agar dapat diatur marginnya */
+    margin: 0 10px; /* Mengatur margin antara setiap ikon */
+    color: #333; /* Mengatur warna ikon */
+    font-size: 24px; /* Mengatur ukuran ikon */
+    transition: color 0.3s ease; /* Efek transisi saat ikon dihover */
+}
+
+.social-icon:hover {
+    color: #007bff; /* Mengubah warna ikon saat dihover */
+}
+
+.container h2 {
+    margin-top: 0; /* Menghilangkan margin atas */
+    font-size: 13px; /* Ukuran font paragraf */
+    margin-bottom: 10px; /* Margin bawah pada paragraf */
+    font-family: Fjalla One; /* Jenis font: Fjalla One */
+    font-weight: 700; /* Ketebalan font: 700 (tebal) */
+    letter-spacing: 0em; /* Spasi antar huruf: 0em (tidak ada spasi tambahan) */
+    line-height: 1.2em; /* Jarak antar baris teks: 1.2em */
+    text-transform: uppercase; /* Mengubah teks menjadi huruf kapital */
+    color: #000000; /* Warna teks: hitam */
+}
+
+.container h1 {
+    font-size: 36px; /* Mengatur ukuran font judul */
+    margin-bottom: 20px; /* Mengatur margin bawah pada judul */
+    font-family: Arial, Helvetica, sans-serif; /* Jenis font: Arial, Helvetica, sans-serif */
+    font-weight: 700; /* Ketebalan font: 700 (tebal) */
+    font-size: 32px; /* Ukuran font: 32px */
+    letter-spacing: .02em; /* Spasi antar huruf: 0.02em */
+    line-height: 1.3em; /* Jarak antar baris teks: 1.3em */
+    text-transform: none; /* Tidak ada transformasi teks */
+    display: block; /* Membuat teks menjadi blok */
+    margin-block-start: 0.83em; /* Margin atas: 0.83em */
+    margin-block-end: 0.83em; /* Margin bawah: 0.83em */
+    margin-inline-start: 0px; /* Margin kiri dan kanan: 0px */
+    margin-inline-end: 0px; /* Margin kiri dan kanan: 0px */
+    font-weight: bold; /* Menjadikan teks tebal */
+    unicode-bidi: isolate; /* Unicode bidi isolate */
+}
+
+.photo {
+    max-width: 50%; /* Mengatur lebar maksimum foto */
+    height: auto; /* Menjaga aspek rasio foto */
+    display: block; /* Membuat foto menjadi blok agar margin dan padding berfungsi dengan benar */
+    object-position: 50% 50%;
+}
+.container h3 {
+    margin-top: 0; /* Menghilangkan margin atas */
+    margin-bottom: 10px; /* Mengatur margin bawah pada teks */
+    font-size: 19px; /* Ukuran font */
+    font-family: Arial, sans-serif; /* Jenis font */
+    font-weight: bold; /* Ketebalan font */
+    color: #000000; /* Warna teks */
+    line-height: 1.6; /* Mengatur jarak antar baris */
+    display: block;
+    margin-block-start: 1em; /* Margin atas */
+    margin-block-end: 3em; /* Margin bawah */
+    margin-inline-start: 21px; /* Margin kiri dan kanan */
+    margin-inline-end: 21px; /* Margin kiri dan kanan */
+    unicode-bidi: normal;
+    text-align: justify; /* Ratakan teks secara rata kiri dan kanan */
+    margin-top: -46px; /* Penyesuaian margin atas */
+}
+
+
+.container p {
+    font-size: 14px; /* Ukuran font */
+    font-weight: normal; /* Ketebalan font */
+    line-height: 1.6; /* Jarak antar baris teks */
+    display: flow-root;
+    margin-block-start: 1em; /* Margin atas */
+    margin-block-end: 3em; /* Margin bawah */
+    margin-inline-start: 21px; /* Margin kiri dan kanan */
+    margin-inline-end: 21px; /* Margin kiri dan kanan */
+    unicode-bidi: normal;
+    text-align: justify; /* Ratakan teks secara rata kiri dan kanan */
+    margin-top: -46px; /* Penyesuaian margin atas */
+}
+.container p {
+    font-size: 16px; /* Ukuran font */
+    font-weight: bold; /* Ketebalan font */
+    color: #000000; /* Warna teks hijau */
+}
+
+.container a {
+    color: #548661; /* Warna teks hijau */
+    text-decoration: none; /* Menghapus garis bawah pada tautan */
+    margin-bottom: 20px;
+}
+
+.container a:hover {
+    text-decoration: underline; /* Menampilkan garis bawah pada tautan saat dihover */
+
+}
+
+.content {
+    margin-top: 20px; /* Menambahkan ruang di atas konten */
+
+}
+
+/* Styling untuk main content */
+main {
+    margin-top: 20px; /* Adjust margin top as needed */
+    text-align: center;
+}
+
+main a {
+    color: blue; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+main a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+footer {
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #000000;
+  color: #fff;
+  margin-block-start: 1em
+
+}
+strong {
+    color: #51f562; /* Warna teks hijau */
+}
+.container strong {
+    color: #51f562; /* Warna teks hijau */
+}
+
+.grid-item {
+  flex: 1;
+  margin-bottom: 20px;
+}
+
+.grid-item.right {
+  text-align: justify;
+}
+
+.grid-item ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.grid-item ul li {
+  margin-bottom: 5px;
+}
+.signup-btn {
+    font-size: 12px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none; /* Menyembunyikan underline pada tautan */
+    border-radius: 5px; /* Mengatur sudut tombol */
+  }
+  
+  .signup-btn:hover {
+    background-color: #fbfbfb;
+  }
+  
