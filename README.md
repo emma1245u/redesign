@@ -15,3 +15,10 @@
 #sebelum
 ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%204.png) 
 
+#3.Terdapat dua masalah yang perlu diatasi. Pertama, tata letak footer mengandung duplikasi elemen-elemen header, yang dapat membingungkan pengguna dan mengganggu konsistensi tampilan. Solusinya adalah menghapus elemen-elemen header yang ada di footer agar tampilan footer lebih fokus pada informasi yang relevan. Kedua, duplikasi elemen elemen header berada footer, yang menyebabkan ketidaksesuaian tata letak dan kesulitan pengguna dalam menemukan informasi yang seharusnya di header. Solusinya adalah menghapus elemen elemen tersebut.
+
+#sesudah
+![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%205.png) 
+
+#sebelum
+![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%206.png) 
