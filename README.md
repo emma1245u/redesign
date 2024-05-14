@@ -4,3 +4,11 @@
 ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%201.png) 
 #sebelum
 ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%202.png) 
+#2.Terdapat dua masalah yang perlu diatasi. Pertama, ukuran teks terlalu kecil dan ruang kosong tidak terisi dengan baik. Masalah ini mengakibatkan kesulitan membaca dan mengurangi fokus pada konten. Solusinya adalah mengubah ukuran teks agar lebih mudah dibaca serta melakukan penyesusain pada tata letak ruang kosong dengan mengisi teks agar terlihat lebih menarik di baca, dan akan lebih mudah memahami informasi yang disajikan. Masalah kedua adalah duplikasi elemen "donate" pada header dan isi sub teks halaman. Hal ini dapat membingungkan pengguna dan mengganggu tampilan. Solusinya adalah menghapus salah satu kemunculan elemen "donate" yang terdapat di bagian isi teks agar tidak terjadi duplikasi. Dengan demikian, pesan yang disampaikan akan lebih jelas dan tampilan website akan terlihat lebih teratur.
+
+#sesudah
+![Alt Text].(https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%203.png) 
+
+#sebelum
+![Alt Text].(https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%204.png)
+
