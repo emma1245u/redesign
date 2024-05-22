@@ -12,7 +12,7 @@ Selain itu terdapat juga masalah pada font style dan warna yang kurang jelas ser
 #2.Masalah Selanjutnya pada Font Style Judul konten Yang kurang menarik.Solusinya adalah Mengubah font Style dan juga memperbaiki tampilan Judulnya 
 Selain itu ukuran teks pada isi konten juga terlalu Kecil dan kurang menarik dan juga terdapat ruang kosong tidak terisi dengan baik. masalah Ini mengakibatkan kesulitan membaca dan mengurangi fokus pada korten.
 Solusinya adalah mengubah ukuran Font (teks) agar lebih mudah dibaca Serta melakukan penyesusaian Pada tata letak ruang kosong dengan mengisi teks agar terlihat lebih menarik dibaca dan akan lebih mudah memahami, Informasi yg disajikan. 
-masalah Selanjutnya adalah ada duplikasi elemen header "doonete" yg berada didalam Isi konten (teks halaman). Solusinya adalah Menghapus. Dengan Pesan yg disampaikan akan lebih jelas dan tampilan Website akan terlihat lebih teratur, dengan memisahkan link video dengan paragraf Visual dapat membantu penguna akan dengan mudah mengidentifikasi dan memahami bahwa Itu adalah media berbeda yg dapat diakses.
+masalah Selanjutnya adalah ada duplikasi elemen header "donate" yg berada didalam Isi konten (teks halaman). Solusinya adalah Menghapus. Dengan Pesan yg disampaikan akan lebih jelas dan tampilan Website akan terlihat lebih teratur, dengan memisahkan link video dengan paragraf Visual dapat membantu penguna akan dengan mudah mengidentifikasi dan memahami bahwa Itu adalah media berbeda yg dapat diakses.
 
 #sesudah
  ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%203.png) 
