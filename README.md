@@ -1,5 +1,7 @@
 # Emma/redesign 
-#1.masalahnya pada tata letak sebelumnya, seperti ikon media sosial ditempatkan di tengah header, sementara bagian lain seperti halaman elemen About dan elemen lainnya terletak di ujung kanan. Hal ini mengakibatkan ketidakteraturan dan kurangnya keterpaduan visual.Untuk mengatasi masalah ini, solusinya adalah melakukan perubahan penempatan elemen About dan elemen-elemen lainnya ke posisi yang lebih terorganisir, mudah diakses, dan rapi. Sementara itu, ikon media sosial dipindahkan ke ujung kanan header agar tampilan keseluruhan terlihat lebih teratur dan seimbang. Dan juga mengubah font style dan warna agar mudah di baca.
+#1.Masalahnya terletak pada bagian header dimana tata letak menu navbar dan menu ikon media sosial tidak tertata lebih baik, seperti yang dilihat di sini menu ikon media sosialnya berada di tengah, sementara menu navbar about dan elemen lainnya terletak di ujung kanan, hal ini mengakibatkan ketidakteraturan dan kurangnya keterpaduan visual. 
+Untuk mengatasi masalah ini solusinya adalah dengan melakukan perubahan pada penempatan menu navbar about dan elemen lainnya ke posisi Tengah agar terlihat lebih terorganisir, mudah diakses dan juga rapi sementara itu juga melakukan perubahan penempatan pada menu icon media sosial ke ujung kanan header agar tampilan  keseluruhannya terlihat lebih teratur dan lebih seimbang
+Selain itu terdapat juga masalah pada font style dan warna yang kurang jelas serta kurang menarik.  Solusinya adalah dengan mengubah font style dan warna agar lebih mudah dibaca dan terlihat lebih menarik.
 
 #sesudah
 ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%201.png) 
@@ -7,7 +9,10 @@
 #sebelum
 ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%202.png) 
 
-#2.Terdapat dua masalah yang perlu diatasi. Pertama, ukuran teks terlalu kecil dan ruang kosong tidak terisi dengan baik. Masalah ini mengakibatkan kesulitan membaca dan mengurangi fokus pada konten. Solusinya adalah mengubah ukuran teks agar lebih mudah dibaca serta melakukan penyesusain pada tata letak ruang kosong dengan mengisi teks agar terlihat lebih menarik di baca, dan akan lebih mudah memahami informasi yang disajikan. Masalah kedua adalah duplikasi elemen "donate" pada header dan isi sub teks halaman. Hal ini dapat membingungkan pengguna dan mengganggu tampilan. Solusinya adalah menghapus salah satu kemunculan elemen "donate" yang terdapat di bagian isi teks agar tidak terjadi duplikasi. Dengan demikian, pesan yang disampaikan akan lebih jelas dan tampilan website akan terlihat lebih teratur.Dan dengan memisahkahkan link video dengan paragraf visual dapat membantu pengguna akan dengan mudah mengidentifikasi dan memahami bahwa itu adalah media berberbeda yang dapat di akses. 
+#2.Masalah Selanjutnya pada Font Style Judul konten Yang kurang menarik.Solusinya adalah Mengubah font Style dan juga memperbaiki tampilan Judulnya 
+Selain itu ukuran teks pada isi konten juga terlalu Kecil dan kurang menarik dan juga terdapat ruang kosong tidak terisi dengan baik. masalah Ini mengakibatkan kesulitan membaca dan mengurangi fokus pada korten.
+Solusinya adalah mengubah ukuran Font (teks) agar lebih mudah dibaca Serta melakukan penyesusaian Pada tata letak ruang kosong dengan mengisi teks agar terlihat lebih menarik dibaca dan akan lebih mudah memahami, Informasi yg disajikan. 
+masalah Selanjutnya adalah ada duplikasi elemen header "doonete" yg berada didalam Isi konten (teks halaman). Solusinya adalah Menghapus. Dengan Pesan yg disampaikan akan lebih jelas dan tampilan Website akan terlihat lebih teratur, dengan memisahkan link video dengan paragraf Visual dapat membantu penguna akan dengan mudah mengidentifikasi dan memahami bahwa Itu adalah media berbeda yg dapat diakses.
 
 #sesudah
  ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%203.png) 
@@ -15,7 +20,7 @@
 #sebelum
 ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%204.png) 
 
-#3.Terdapat dua masalah yang perlu diatasi. Pertama, tata letak footer mengandung duplikasi elemen-elemen header, yang dapat membingungkan pengguna dan mengganggu konsistensi tampilan. Solusinya adalah menghapus elemen-elemen header yang ada di footer agar tampilan footer lebih fokus pada informasi yang relevan. Kedua, duplikasi elemen elemen header berada footer, yang menyebabkan ketidaksesuaian tata letak dan kesulitan pengguna dalam menemukan informasi yang seharusnya di header. Solusinya adalah menghapus elemen elemen tersebut.
+#3.Terdapat pada tata letak footer yang mengandung duplikasi menu navbar header seperti about dan elemen lainnya, yang dapat membingungkan pengguna dan menggangu konsistensi tampilan. solusinya adalah menghapus elemen tersebut agar tampilan footer lebih fokus pada informasi yang relevan.
 
 #sesudah
 ![Alt Text](https://github.com/emma1245u/redesign/blob/main/screnshoots%20redesign/foto%205.png) 
